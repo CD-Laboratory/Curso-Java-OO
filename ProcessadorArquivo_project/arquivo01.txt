@@ -1,0 +1,12 @@
+nome->Eduardo
+sobrenome->Guerra
+idade->35
+nome->Maria
+sobrenome->Santos
+idade->22
+nome->Fernanda
+sobrenome->Mendes
+idade->41
+nome->Pedro
+sobrenome->Camargo
+idade->50

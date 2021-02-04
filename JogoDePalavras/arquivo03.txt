@@ -1,0 +1,50 @@
+Astronauta
+Desenhador
+Atleta
+Jornalista
+Motorista
+Escritor
+Carpinteiro
+Dependente
+Padeiro
+Professor
+Cabeleireiro
+Ator
+Cirurgiao
+Construtor
+Dona de casa
+Sapateiro
+Youtuber
+Chef
+Atriz
+Encanador
+Cantor
+Enfermeira
+Jardineiro
+Farmaceutico
+Taxista
+Piloto
+Arquiteta
+Empresaria
+Agricultor
+Desenvolvedor
+Psicologo
+Pediatra
+Nutricionista
+Analista de Software
+Profissional de Educacao Fisica
+Cozinheiro
+Contador
+Pedreiro
+Policia
+Carteiro
+Advogado
+Lixeiro
+Doutor
+Cartunista
+Decorador
+Maquiador
+Costureira
+Escultor
+Dublador
+Analista de qualidade
